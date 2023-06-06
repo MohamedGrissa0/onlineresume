@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/onlinersume/static/css/main.cad3d4b4.css",
+    "main.js": "/onlinersume/static/js/main.ecc94af7.js",
+    "static/js/787.35fe7324.chunk.js": "/onlinersume/static/js/787.35fe7324.chunk.js",
+    "static/media/pexels-jaspereology-3199036.jpg": "/onlinersume/static/media/pexels-jaspereology-3199036.f16557735d6095f402e7.jpg",
+    "index.html": "/onlinersume/index.html",
+    "main.cad3d4b4.css.map": "/onlinersume/static/css/main.cad3d4b4.css.map",
+    "main.ecc94af7.js.map": "/onlinersume/static/js/main.ecc94af7.js.map",
+    "787.35fe7324.chunk.js.map": "/onlinersume/static/js/787.35fe7324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cad3d4b4.css",
+    "static/js/main.ecc94af7.js"
+  ]
+}
